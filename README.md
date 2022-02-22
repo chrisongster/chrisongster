@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chrisongster
+- 👀 I’m interested in nice web projects
+- 🌱 I’m currently learning all kinds of new stacking technologies
+- 💞️ I’m looking to collaborate on nice web projects
+- 📫 How to reach me christoph@konus.at
